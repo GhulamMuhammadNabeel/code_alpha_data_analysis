@@ -37,6 +37,7 @@ This internship helped me apply and grow my skills in **web scraping**, **explor
 ## 📂 Folder Structure
 
 📁 codealpha-data-analytics 
+
 ├── task1 
 
 ├── task2
