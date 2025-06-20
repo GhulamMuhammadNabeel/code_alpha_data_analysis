@@ -69,9 +69,8 @@ This internship was offered by [CodeAlpha](https://www.codealpha.tech/) and focu
 ## 🔗 Links
 
 - 🌐 [CodeAlpha Website](https://www.codealpha.tech/)
-- 📘 [LinkedIn Post](https://www.linkedin.com/in/YourLinkedInProfile)
-- 💼 [My Portfolio](https://yourportfolio.com) *(optional)*
-- 📎 [GitHub Repo](https://github.com/YourUsername/ThisRepo)
+- 📘 [LinkedIn Post](https://www.linkedin.com/posts/ghulam-muhammad-nabeel-a6997a313_dataanalytics-webscraping-eda-activity-7341814218632937474-veDl?utm_source=share&utm_medium=member_android&rcm=ACoAAE-zHHEB9qiNg1yIEKePGaJY6F9TJlVm_yc)
+
 
 ---
 
