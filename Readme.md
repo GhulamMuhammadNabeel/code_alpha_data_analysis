@@ -26,12 +26,11 @@ This internship helped me apply and grow my skills in **web scraping**, **explor
 - Tools: **matplotlib**, **seaborn**, **WordCloud**
 
 ### 🔹 Task 4: Sentiment Analysis
-- Used **Amazon Product Reviews Dataset**.
-- Preprocessed text data (stopword removal, tokenization, etc.).
+- Used **Quotes Dataset**.
+- Preprocessed text data.
 - Performed sentiment classification using:
   - **TextBlob** for polarity/subjectivity
-  - **VADER** for compound sentiment scores
-
+  
 ---
 
 ## 📂 Folder Structure
@@ -59,7 +58,7 @@ This internship helped me apply and grow my skills in **web scraping**, **explor
 - Pandas, NumPy
 - Matplotlib, Seaborn, WordCloud
 - BeautifulSoup
-- TextBlob, VADER
+- TextBlob
 - Jupyter Notebooks
 - Google Colab
 
