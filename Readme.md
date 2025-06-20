@@ -38,9 +38,13 @@ This internship helped me apply and grow my skills in **web scraping**, **explor
 
 📁 codealpha-data-analytics 
 ├── task1 
+
 ├── task2
+
 ├── task3
+
 ├── task4
+
 └── README.md
 
 
